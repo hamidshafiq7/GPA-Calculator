@@ -1,6 +1,6 @@
 # University of Haripur GPA Management System
 
-LIVE AT: [https://hamidshafiq1.github.io/scientific-calculator/ ](https://hamidshafiq1.github.io/GPA-Calculator/)
+LIVE AT: [https://hamidshafiq7.github.io/GPA-Calculator/ ](https://hamidshafiq7.github.io/GPA-Calculator/)
 
 Repository contains the GPA calculation logic and implementation for the University of Haripur.
 
